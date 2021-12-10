@@ -1,1 +1,1 @@
-# Final-Project
+# Project, Simple Interest Calculator
